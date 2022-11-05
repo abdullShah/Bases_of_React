@@ -1,0 +1,10 @@
+.section {
+    padding: 20px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    flex: 1;
+}
+
+.bold {
+    font-weight: 700;
+}

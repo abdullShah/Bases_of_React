@@ -1,0 +1,32 @@
+.main {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.buttonSection {
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+
+    background: #FFFFFF;
+    padding: 20px;
+    border-radius: 8px;
+    height: 659px;
+}
+
+.oneButton {
+    /*Обнуление кнопки*/
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    
+    font-size: 16px;
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+.activeTab {
+    font-weight: 700;
+}
