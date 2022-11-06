@@ -1,0 +1,59 @@
+.itemBlock {
+    width: 895px;
+    background: #FFFFFF;
+    padding: 16px 20px 20px 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 21px;
+}
+
+.addition {
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.5);
+    margin-bottom: 8px;
+}
+
+.classForStar {
+    margin-bottom: 46px;
+}
+
+.price {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+span {
+    display: block;
+}
+
+.resetButton {
+    /*Обнуление*/
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.countBlock {
+    display: flex;
+    align-items: center;
+}
+
+.countSpan {
+    margin: 0 24px;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.disabled {
+    fill: gray;
+    color: gray;
+}

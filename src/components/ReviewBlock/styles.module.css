@@ -1,0 +1,10 @@
+.article {
+    padding: 20px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+
+.bold {
+    font-weight: 700;
+}
