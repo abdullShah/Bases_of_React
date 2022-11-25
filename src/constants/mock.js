@@ -41,14 +41,14 @@ export const categories = [
         ],
       },
       {
-        id: "d75f762a-eadd-49be-8918-ed0daa8dd024",
+        id: "rf42p4jhf1qoulodajn47myzpkh25vvv6-lt",
         name: "Книга ночи",
         author: "Блэк Холли",
         genre: "Фэнтези",
         price: 250,
       },
       {
-        id: "d75f762a-eadd-49be-8918-ed0daa8dd024",
+        id: "vglffsm7cc1-ecx606x5f8ep_nga8e3a5gqk",
         name: "Благие знамения",
         author: "Пратчетт, Гейман",
         genre: "Фэнтези",
